@@ -11,7 +11,7 @@
  */
 class Solution {
 public:
-    TreeNode* nextRight=NULL;
+    TreeNode* lastVisited=NULL;
     void flatten(TreeNode* root) {
        if(root==NULL){
         return;
@@ -19,7 +19,7 @@ public:
        flatten(root->right);
        flatten(root->left);
        root->left=NULL;
-       root->right=nextRight;
-       nextRight=root;
+       root->right=lastVisited;
+       lastVisited=root;
     }
 };
