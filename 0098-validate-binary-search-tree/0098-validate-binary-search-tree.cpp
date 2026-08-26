@@ -15,10 +15,7 @@ public:
         if(root==NULL){
             return true;
         }
-        if(min!=LLONG_MIN && root->val<=min){
-            return false;
-        }
-        if(max!=LLONG_MAX && root->val>=max){
+        if(root->val <= min || root->val >= max){
             return false;
         }
         bool leftSubTree=isValid(root->left,min,root->val);
