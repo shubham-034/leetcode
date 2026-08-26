@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/shubham-034/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/shubham-034/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/shubham-034/leetcode/tree/master/0100-same-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shubham-034/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shubham-034/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -17,6 +18,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/shubham-034/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/shubham-034/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/shubham-034/leetcode/tree/master/0100-same-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/shubham-034/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shubham-034/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -32,6 +34,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/shubham-034/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/shubham-034/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/shubham-034/leetcode/tree/master/0100-same-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shubham-034/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shubham-034/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -87,5 +90,6 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/shubham-034/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shubham-034/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
