@@ -16,6 +16,7 @@
 | [0257-binary-tree-paths](https://github.com/shubham-034/leetcode/tree/master/0257-binary-tree-paths) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/shubham-034/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0572-subtree-of-another-tree](https://github.com/shubham-034/leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0617-merge-two-binary-trees](https://github.com/shubham-034/leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0662-maximum-width-of-binary-tree](https://github.com/shubham-034/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/shubham-034/leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/shubham-034/leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -32,6 +33,7 @@
 | [0257-binary-tree-paths](https://github.com/shubham-034/leetcode/tree/master/0257-binary-tree-paths) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/shubham-034/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0572-subtree-of-another-tree](https://github.com/shubham-034/leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0617-merge-two-binary-trees](https://github.com/shubham-034/leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0662-maximum-width-of-binary-tree](https://github.com/shubham-034/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/shubham-034/leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 ## Breadth-First Search
@@ -39,6 +41,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/shubham-034/leetcode/tree/master/0100-same-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/shubham-034/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0617-merge-two-binary-trees](https://github.com/shubham-034/leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0662-maximum-width-of-binary-tree](https://github.com/shubham-034/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/shubham-034/leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 ## Binary Tree
@@ -56,6 +59,7 @@
 | [0257-binary-tree-paths](https://github.com/shubham-034/leetcode/tree/master/0257-binary-tree-paths) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/shubham-034/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0572-subtree-of-another-tree](https://github.com/shubham-034/leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0617-merge-two-binary-trees](https://github.com/shubham-034/leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0662-maximum-width-of-binary-tree](https://github.com/shubham-034/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/shubham-034/leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/shubham-034/leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
