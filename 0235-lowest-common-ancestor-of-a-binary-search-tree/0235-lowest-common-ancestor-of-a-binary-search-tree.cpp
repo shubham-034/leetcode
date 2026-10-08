@@ -21,7 +21,7 @@ public:
         }
         //rightSubtree:
         // If both nodes are greater than root, LCA must be in the right subtree
-        if(p->val>root->val && q->val>root->val){
+        else if(p->val>root->val && q->val>root->val){
             return lowestCommonAncestor(root->right,p,q);
         }
         //root:
